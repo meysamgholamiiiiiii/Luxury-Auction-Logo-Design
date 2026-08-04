@@ -57,7 +57,7 @@ The logo was designed with a focus on:
 
 ### Logo Mockup
 
-![Logo Mockup](logo-mockup(3).jpg)
+![Logo Mockup](logo-mockup.png)
 
 
 ---
