@@ -52,12 +52,12 @@ The logo was designed with a focus on:
 
 ### Main Logo
 
-![Main Logo](logo.png)
+![Main Logo](logo 2022.png)
 
 
 ### Logo Mockup
 
-![Logo Mockup](logo-mockup.jpg)
+![Logo Mockup](logo-mockup(1).jpg)
 
 
 ---
