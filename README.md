@@ -67,8 +67,8 @@ Luxury-Auction-Logo-Design
 │── README.md
 │── logo.png
 │── logo-mockup.jpg
-│── logo-black.png
-│── logo-white.png
+
+
 
 
 ---
